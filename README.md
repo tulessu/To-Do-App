@@ -1,2 +1,2 @@
 # To-Do-App
-Very basic todo app. Just to try
+Very basic todo app with using Flask, ORM and SQLAlchemy.
